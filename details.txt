@@ -1,0 +1,5 @@
+this tutotials is gotten from
+https://stackabuse.com/using-sequelize-js-and-sqlite-in-an-express-js-app/
+
+author: Adam McQuistan
+topic:Using Sequelize.js and SQLite in an Express.js App
